@@ -1,0 +1,15 @@
+
+*.opendb
+*.db
+Question2/.vs/Question2/v15/.suo
+*.ipch
+*.tlog
+*.pdb
+*.idb
+*.obj
+*.exe
+*.vcxproj
+*.filters
+*.sln
+*.user
+*.ilk
